@@ -1,7 +1,7 @@
 {
   "name": "kestrel.node",
   "description": "Kestrel client",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/mattinsler/kestrel.node",
   "author": {
     "name": "Matt Insler",
@@ -21,7 +21,7 @@
       "url": "https://github.com/mattinsler/kestrel.node/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "dist/kestrel",
+  "main": "lib/kestrel",
   "engines": {
     "node": ">= 0.10.0"
   },
